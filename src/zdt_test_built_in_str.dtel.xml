@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDT_TEST_BUILT_IN_STR</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>07</HEADLEN>
+    <SCRLEN1>07</SCRLEN1>
+    <SCRLEN2>07</SCRLEN2>
+    <SCRLEN3>07</SCRLEN3>
+    <DDTEXT>test built in</DDTEXT>
+    <REPTEXT>string4</REPTEXT>
+    <SCRTEXT_S>string1</SCRTEXT_S>
+    <SCRTEXT_M>string4</SCRTEXT_M>
+    <SCRTEXT_L>string4</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>STRG</DATATYPE>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
