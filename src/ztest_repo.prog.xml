@@ -17,6 +17,12 @@
      <LENGTH>20</LENGTH>
     </item>
     <item>
+     <ID>I</ID>
+     <KEY>002</KEY>
+     <ENTRY>text symbol2</ENTRY>
+     <LENGTH>22</LENGTH>
+    </item>
+    <item>
      <ID>R</ID>
      <ENTRY>testing repo</ENTRY>
      <LENGTH>12</LENGTH>
@@ -26,6 +32,12 @@
      <KEY>P_TEST</KEY>
      <ENTRY>from selection screen</ENTRY>
      <LENGTH>29</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_TEST</KEY>
+     <ENTRY>option sele</ENTRY>
+     <LENGTH>19</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
