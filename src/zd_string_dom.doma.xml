@@ -6,7 +6,7 @@
     <DOMNAME>ZD_STRING_DOM</DOMNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <DATATYPE>STRG</DATATYPE>
-    <DDTEXT>domain test</DDTEXT>
+    <DDTEXT>domain test com</DDTEXT>
    </DD01V>
   </asx:values>
  </asx:abap>
