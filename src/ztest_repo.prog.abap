@@ -12,3 +12,5 @@ selection-screen: begin of block b1 with frame title text-001.
   selection-screen: end of block b1.
 
 *test comment1
+*test branch
+*---
