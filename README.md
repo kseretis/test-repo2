@@ -1,2 +1,2 @@
 # test-repo2
-testrepo
+test repo
